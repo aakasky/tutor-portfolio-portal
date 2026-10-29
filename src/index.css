@@ -45,6 +45,10 @@
   color: #ffffff;
 }
 
+:root[data-theme='light'] .hero-whatsapp {
+  color: #ffffff;
+}
+
 :root[data-theme='light'] .text-transparent {
   color: transparent;
 }

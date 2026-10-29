@@ -36,7 +36,7 @@ export function Hero({ theme }: Readonly<HeroProps>) {
               href="https://wa.me/919820809562"
               target="_blank"
               rel="noreferrer"
-              className="flex items-center gap-2 rounded-xl bg-emerald-600 px-6 py-3.5 text-sm font-semibold text-white shadow-xl shadow-emerald-600/25 transition hover:scale-[1.02] hover:bg-emerald-500 active:scale-[0.98]"
+              className="hero-whatsapp flex items-center gap-2 rounded-xl bg-emerald-600 px-6 py-3.5 text-sm font-semibold text-white shadow-xl shadow-emerald-600/25 transition hover:scale-[1.02] hover:bg-emerald-500 active:scale-[0.98]"
             >
               <WhatsAppIcon className="h-5 w-5" />
               WhatsApp
